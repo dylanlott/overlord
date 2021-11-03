@@ -57,7 +57,7 @@
     "sortablejs": "^1.7.0",
     "source-map-support": "^0.5.0",
     "uuid": "^3.1.0",
-    "validator": "^9.1.2",
+    "validator": "^13.7.0",
     "vue-gravatar": "^1.2.1",
     "vue-router": "^3.0.1",
     "vuedraggable": "^2.16.0",
